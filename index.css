@@ -28,7 +28,7 @@ main {
 	-webkit-flex-direction: column;
 	flex-direction: column;
 
-	width: 800px;
+	width: 840px;
 	margin: 32px;
 	padding: 32px;
 
@@ -68,14 +68,14 @@ header {
 
 h2 {
 	border-bottom: 1px solid #888;
-	margin-top: 2px;
+	margin-top: 12px;
 	margin-bottom: 4px;
 
 	font-weight: 300;
 }
 
 section {
-  margin-top: -8px;
+	margin-top: -8px;
 	line-height: 140%;
 }
 
@@ -185,7 +185,7 @@ ul.nobullets {
 	}
 
 	header div, header span, section {
-		font-size: 11px !important;
+		font-size: 14px !important;
 	}
 
   h2 {
