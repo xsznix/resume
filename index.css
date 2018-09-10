@@ -59,13 +59,6 @@ header {
 	font-size: 14px;
 }
 
-#links {
-	display: -webkit-flex;
-	display: flex;
-	-webkit-justify-content: center;
-	justify-content: center;
-}
-
 h2 {
 	border-bottom: 1px solid #888;
 	margin-top: 12px;
